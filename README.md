@@ -28,6 +28,10 @@ Time Module
 Run using Python:
 python game.py
 
+Run using EXE:
+Download .exe from Releases
+Double click to play
+
 🎮 How to Play
 Click on cards to flip them
 Match identical pairs
